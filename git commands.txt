@@ -2,11 +2,17 @@
 pwd: print working directory ($ pwd)
 cd: change directory ($ cd "D:/git check repos")
 ls: list of all files in working directory ($ ls)
-
+to clear code mess: ($ clear)
 
 2.) check status & initiate process
 Check for a folder to be a repository already ($ git status)
 ($ git init): inititalize git repository
 Look for status now
 
-3.)
+3.) add files
+($ git add .): for all files in working directory
+($ git add file_name): for adding one specific file (file_name)
+($ git log): to check commit history)
+($ git staus): nothing to commit
+#### modify one of the files in the working directory
+($ git status): will now tell you which file still need to commit
