@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=riv6cIpFcC8
+
 1.) basic setting for a folder
 pwd: print working directory ($ pwd)
 cd: change directory ($ cd "D:/git check repos")
@@ -24,7 +26,7 @@ Look for status now
 
 Note: If we close gitbash window, no worries it will take from there (check log & status). No need to initialize again
 
-4.) better logging & checkouts:
+4.) better logging & checkouts: (Super Awesome)
 ($ git log --graph -- decorate --all --pretty=oneline): log files with ID
 ($ git checkout ID): will make changes in working dir for that particular ID step
 
