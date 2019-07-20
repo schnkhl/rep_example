@@ -48,5 +48,13 @@ Example:
 Q. What is your name?
 A. My name is Sachin Kohli.
 
+8.) Solving problem while pulling
+Problem: How do I tell Git/terminal I am done typing in my message?
+* press "i"
+* write your merge message
+* press "esc"
+* write ":wq"
+* then press enter
+
 
 
