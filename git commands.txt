@@ -1,0 +1,12 @@
+1.) basic setting for a folder
+pwd: print working directory ($ pwd)
+cd: change directory ($ cd "D:/git check repos")
+ls: list of all files in working directory ($ ls)
+
+
+2.) check status & initiate process
+Check for a folder to be a repository already ($ git status)
+($ git init): inititalize git repository
+Look for status now
+
+3.)
