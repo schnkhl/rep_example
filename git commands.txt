@@ -36,7 +36,8 @@ Note: If we close gitbash window, no worries it will take from there (check log 
 
 Note: if you make any changes in local dir. it won't reflect on github, untill you add, commit and push it ($ git push origin master)
 
-6.) 
+6.) Pulling from github to local directory
+($ git pull)
 
 
 
