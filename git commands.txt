@@ -30,8 +30,11 @@ Note: If we close gitbash window, no worries it will take from there (check log 
 ($ git log --graph -- decorate --all --pretty=oneline): log files with ID
 ($ git checkout ID): will make changes in working dir for that particular ID step
 
-5.)
+5.) creating & pushing to repository
+($ git remote add origin https://github.com/schnkhl/rep_example.git): get repository access
+($ git push -u origin master): push files to github
 
+Note: if you make any changes in local dir. it won't reflect on github, untill you add, commit and push it ($ git push origin master)
 
 
 
