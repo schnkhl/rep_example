@@ -45,8 +45,7 @@ Solution: We have to manually update the lines in merging file & save changes
 
 Example:
 Q. What is your name?
-A. My name is Sachin.
-
+A. My name is Sachin Kohli.
 
 
 
