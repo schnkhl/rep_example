@@ -39,6 +39,11 @@ Note: if you make any changes in local dir. it won't reflect on github, untill y
 6.) Pulling from github to local directory
 ($ git pull)
 
+7) Conflict Resolution:
+Problem: If 2 collabrators are working on same file & made changes on same line (e.g. 3rd line), in this scenario github will get confuse which one is the original code line & will through error while merging them
+Solution: We have to manually update the lines in merging file & save changes
+
+
 
 
 
