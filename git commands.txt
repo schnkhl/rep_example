@@ -22,4 +22,16 @@ Look for status now
 ($ git staus): nothing to commit; workarea is clean
 ($ git log): look out for multiple commit we made earlier
 
-4.)
+Note: If we close gitbash window, no worries it will take from there (check log & status). No need to initialize again
+
+4.) better logging & checkouts:
+($ git log --graph -- decorate --all --pretty=oneline): log files with ID
+($ git checkout ID): will make changes in working dir for that particular ID step
+
+5.)
+
+
+
+
+
+
