@@ -14,5 +14,12 @@ Look for status now
 ($ git add file_name): for adding one specific file (file_name)
 ($ git log): to check commit history)
 ($ git staus): nothing to commit
+($ git commit -m "1st save"): to save changes
 #### modify one of the files in the working directory
 ($ git status): will now tell you which file still need to commit
+($ git add .): for all files in working directory
+($ git commit -m "2nd save"): to save changes
+($ git staus): nothing to commit; workarea is clean
+($ git log): look out for multiple commit we made earlier
+
+4.)
